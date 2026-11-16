@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-omarchy-system-monitor"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS omarchy-system-monitor component"
+
+[lib]
+name = "omarchy_system_monitor"
+path = "src/lib.rs"
