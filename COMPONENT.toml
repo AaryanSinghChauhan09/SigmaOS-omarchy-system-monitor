@@ -3,7 +3,7 @@ name = "SigmaOS-omarchy-system-monitor"
 tier = 2
 stability = "beta"
 language = "rust"
-description = "System monitor for SigmaOS inspired by Omarchy Linux"
+description = "System resource monitor"
 upstream = []
 
 [contract]
